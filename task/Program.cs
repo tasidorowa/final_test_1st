@@ -1,4 +1,13 @@
-﻿void PrintArray(string[] array)
+﻿string[] CreateArray(int size)
+{
+    string[] chars = new string[size];
+    for (int i = 0; i < size; i++)
+    {
+        chars[i] = Console.ReadLine();
+    }
+    return chars;
+}
+void PrintArray(string[] array)
 {
     foreach (string item in array)
     {
@@ -6,7 +15,7 @@
     }
 }
 
-int CountSmallItems(string[] array)
+int GetShortElements(string[] array)
 {
     int count = 0;
     foreach (string item in array)
@@ -20,12 +29,8 @@ Console.WriteLine("Введите размер массива: ");
 int size = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Введите массив: ");
-string[] chars = new string[size];
+string[] chars = CreateArray(size);
+PrintArray(chars);
 
-for (int i = 0; i < size; i++)
-{
-    chars[i] = Console.ReadLine();
-}
-
-Console.WriteLine(CountSmallItems(chars));
+Console.WriteLine(GetShortElements(chars));
 
