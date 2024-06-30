@@ -1,0 +1,15 @@
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/obj/Debug/net8.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/obj/Debug/net8.0/task.AssemblyInfoInputs.cache
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/obj/Debug/net8.0/task.AssemblyInfo.cs
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/obj/Debug/net8.0/task.csproj.CoreCompileInputs.cache
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/obj/Debug/net8.0/task.sourcelink.json
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/bin/Debug/net8.0/task
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/bin/Debug/net8.0/task.deps.json
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/bin/Debug/net8.0/task.runtimeconfig.json
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/bin/Debug/net8.0/task.dll
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/bin/Debug/net8.0/task.pdb
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/obj/Debug/net8.0/task.dll
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/obj/Debug/net8.0/refint/task.dll
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/obj/Debug/net8.0/task.pdb
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/obj/Debug/net8.0/task.genruntimeconfig.cache
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/КР по оснв. блоку/task/obj/Debug/net8.0/ref/task.dll
